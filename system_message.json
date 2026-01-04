@@ -1,6 +1,6 @@
 {
      "active": true,
      "sender": "SERVER [Owner] [Edit]",
-     "message": "Broadcast test 3",
+     "message": "This is a test of the broadcast system.",
      "ttlSeconds": 3600
    }
