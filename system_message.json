@@ -1,6 +1,6 @@
 {
-     "active": false,
-     "sender": "SERVER",
-     "message": "Server maintenance in progress",
+     "active": true,
+     "sender": "SERVER [Owner] [Edit]",
+     "message": "Broadcast test in progress",
      "ttlSeconds": 3600
    }
